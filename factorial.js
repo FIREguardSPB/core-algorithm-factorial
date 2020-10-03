@@ -8,9 +8,9 @@ for( i = 1; i < a; i++){
   }
   return  rez// (`Факториал числа ${a} равен ${rez}`)
   }
+}
+  
 
-  }
-  fak(5)
 
   //расчет факториала ркурсией
 function fakRekus(a){
@@ -19,4 +19,4 @@ function fakRekus(a){
    }
 return a
   }
-  console.log(fakRekus(15))
+  
